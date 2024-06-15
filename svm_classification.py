@@ -23,3 +23,4 @@ y_pred = svm.predict(X_test)
 # Evaluate accuracy
 accuracy = accuracy_score(y_test, y_pred)
 print(f'Accuracy: {accuracy}')
+ 
