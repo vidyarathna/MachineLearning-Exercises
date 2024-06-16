@@ -32,4 +32,4 @@ for episode in range(num_episodes):
             break
 
 print("Q-table:")
-print(Q)
+print(Q) 
